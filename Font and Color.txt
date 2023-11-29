@@ -1,0 +1,2 @@
+Font: Nunito Sans / https://fonts.google.com/specimen/Nunito+Sans
+Color: Black and White and #88929e

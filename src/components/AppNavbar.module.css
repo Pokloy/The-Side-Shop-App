@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.bg{
+  background-color: #1E1E1E;
+  min-height: 5vh;
+}
+
+.font{
+  color: #FFF;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.font:hover{
+  background-color: white;
+  color: black;
+}
+
+.customToggle .navbar-toggler-icon {
+color: white;
+}
+
+
+@media (max-width: 768px) {
+.font{
+  font-size: 20px;
+  overflow-y: hidden;
+  
+}
+}

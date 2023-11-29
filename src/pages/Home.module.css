@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.landingSection{
+	height: 45vh;
+	background-image: url("landingPage.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.landingFont{
+	color: #FFF;
+	font-family: 'Nunito', sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 800;
+}
+
+@media (max-width: 768px) {
+.landingFont{
+		font-size: 40px;
+	}
+}
+
+@media (max-width: 500px) {
+.landingFont{
+		font-size: 20px;
+	}
+	.landingSection{
+	height: 30vh;
+}
+}

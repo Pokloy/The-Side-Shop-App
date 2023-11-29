@@ -1,0 +1,465 @@
+.productsH1Font{
+	color: #1E1E1E;
+	font-family: 'Nunito', sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+}
+
+
+.productsSingleFont{
+	color: #1E1E1E;
+	font-family: 'Nunito', sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+}
+
+hr{
+	background-color: black;
+	min-height: 4px;
+}
+
+
+.prodSingleTitle{
+	color: #1E1E1E;
+	font-family: 'Nunito', sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 24px;
+	text-align: center;
+}
+
+
+.btnLink{
+	background-color: black;
+	width: 330px;
+	height: 62px;
+	color: #FFF;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+	text-decoration: none;
+	padding-top: 20px;
+}
+
+
+.btnLink:hover{
+	background-color: white;
+	width: 330px;
+	height: 62px;
+	color: black;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+	text-decoration: none;
+	padding-top: 20px;
+}
+
+
+
+
+
+.btnStyle{
+	background-color: black;
+	width: 330px;
+	height: 62px;
+	color: #FFF;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+}
+
+.btnStyle:hover{
+	background-color: white;
+	width: 330px;
+	height: 62px;
+	color: black;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+}
+
+.btnStyle2{
+	background-color: black;
+	width: 50px;
+	height: 50px;
+	color: #FFF;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+}
+
+.btnStyle2:hover{
+	background-color: white;
+	width: 50px;
+	height: 50px;
+	color: black;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+}
+
+
+
+.priceFont{
+	color: #1E1E1E;
+	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+	font-style: bold;
+	font-weight: 700;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.priceFont1{
+	color: #F00;
+	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+	font-style: bold;
+	font-weight: 700;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.authHead{
+	color: #000;
+	font-family: 'Inter', sans-serif;
+	font-size: 10px;
+	font-style: bold;
+	font-weight: 1000;
+}
+
+
+
+.loginButtonDisabled{
+	background-color: white;
+	width: 28rem;
+	height: 62px;
+	color: black;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+}
+
+
+.btnLogin{
+	background-color: black;
+	width: 28rem;
+	height: 62px;
+	color: #FFF;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+	text-decoration: none;
+}
+
+
+.btnLogin:hover{
+	background-color: white;
+	width: 28rem;
+	height: 62px;
+	color: black;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+	text-decoration: none;
+}
+
+.btnLogin1{
+	background-color: black;
+	width: 28rem;
+	height: 62px;
+	color: #FFF;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+	text-decoration: none;
+}
+
+
+.btnLogin1:hover{
+	background-color: white;
+	width: 28rem;
+	height: 62px;
+	color: black;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+	text-decoration: none;
+}
+
+
+
+
+.btnCheckout{
+	background-color: black;
+	width: 30rem;
+	height: 50px;
+	color: #FFF;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+	text-decoration: none;
+}
+.btnCheckout:hover{
+	background-color: white;
+	width: 30rem;
+	height: 50px;
+	color: black;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+	text-decoration: none;
+}
+
+
+.linkCustom{
+	text-decoration: none;
+}
+
+
+.homePageButtonAlignment{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+
+
+
+/* GlitchText.module.css */
+.glitch-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #222;
+}
+
+.glitch {
+  position: relative;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #fff;
+  letter-spacing: 5px;
+  z-index: 1;
+}
+
+.glitch:before,
+.glitch:after {
+  display: block;
+  content: attr(data-glitch);
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+}
+
+.glitch:before {
+  animation: glitch-color 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
+  color: #0ff;
+  z-index: -1;
+}
+
+.glitch:after {
+  animation: glitch-color 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both infinite;
+  color: #ff00ff;
+  z-index: -2;
+}
+
+@keyframes glitch-color {
+  0% {
+    transform: translate(0);
+  }
+
+  20% {
+    transform: translate(-3px, 3px);
+  }
+
+  40% {
+    transform: translate(-3px, -3px);
+  }
+
+  60% {
+    transform: translate(3px, 3px);
+  }
+
+  80% {
+    transform: translate(3px, -3px);
+  }
+
+  to {
+    transform: translate(0);
+  }
+}
+
+
+
+
+/* For smartphones (portrait and landscape) */
+@media only screen and (max-width: 768px) {
+*{
+	overflow-x: hidden;
+}
+  .font{
+  font-size: 20px;
+  overflow-y: hidden;
+}
+.resizedImage{
+  width: 350px; 
+  height: auto; 
+
+}
+.productsH1Font{
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+  .glitch {
+    font-size: 7vw; /* Adjust font size for smaller screens */
+    letter-spacing: 1vw; /* Adjust letter spacing for smaller screens */
+  }
+
+  .btnLogin {
+    width: 90%; /* Adjust width for smaller screens */
+    height: 10vw; /* Adjust height for smaller screens */
+    font-size: 4vw; /* Adjust font size for smaller screens */
+    /* Other styles for smaller screens... */
+  }
+  .productsSingleFont{
+	font-size: 26px;
+	overflow-y: hidden;
+	text-align: center;
+}
+.prodSingleTitle{
+	font-size: 25px;
+	overflow-y: hidden;
+}
+
+.priceFont{
+	font-size: 15px;
+}
+
+.priceFont1{
+	font-size: 15px;
+}
+
+
+.btnLink{
+	width: 150px;
+	height: 40px;
+  font-size: 20px;
+	padding-top: 10px;
+	margin-bottom: 1em;
+}
+
+
+.btnLink:hover{
+	width: 150px;
+	height: 40px;
+  font-size: 20px;
+	padding-top: 10px;
+	margin-bottom: 1em;
+}
+
+.btnLogin1{
+	width: 22rem;
+	height: 62px;
+	font-size: 18px;
+}
+
+
+.btnLogin1:hover{
+
+	width: 22rem;
+	height: 62px;
+	font-size: 18px;
+	text-align: center;
+}
+.loginButtonDisabled{
+
+	width: 22rem;
+	height: 62px;
+	font-size: 18px;
+}
+.xoverflow{
+  overflow-y: hidden;
+}
+}
+
+/* For tablets */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+img {
+  width: 350px; 
+  height: auto; 
+}
+.productsH1Font{
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+}
+.productImg{
+  maxWidth: '80%'; 
+  height: 'auto'
+}
+.priceFont{
+	font-size: 25px;
+}
+
+.xoverflow{
+  overflow-y: hidden;
+}
+.priceFont1{
+	font-size: 25px;
+}
+}

@@ -1,0 +1,326 @@
+.imgSize{
+	min-width: '50%'; 
+	height: 'auto';
+}
+
+.prodEffects {
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.3s ease-out; /* Adding a smooth transition effect */
+}
+
+.prodEffects:hover {
+  transform: scale(1.1); /* Increase the size on hover */
+}
+
+
+.btnCustom{
+  background-color: black;
+  width: 260px;
+  height: 62px;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+
+
+.btnCustom:hover{
+  background-color: white;
+  width: 260px;
+  height: 62px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+
+.linkCustom{
+  text-decoration: none;
+}
+
+.btnContiShopping{
+  width: 160px;
+  height: 62px;
+  font-size: 17px;
+}
+
+.btnContiShopping:hover{
+  width: 160px;
+  height: 62px;
+  background-color: white;
+  color: black;
+  font-size: 17px;
+}
+
+.btnPurchProduct{
+  width: 160px;
+  height: 62px;
+  font-size: 17px;
+}
+
+.btnPurchProduct:hover{
+  width: 160px;
+  height: 62px;
+  background-color: white;
+  color: black;
+  font-size: 17px;
+}
+
+.resizedImage{
+  width: 100%; /* Adjust this value to match the desired width */
+  height: 417px; /* This ensures the aspect ratio remains intact */
+}
+
+.productImg{
+  maxWidth: '90%'; 
+  height: 'auto'
+}
+
+.nicotineLevelSection{
+  min-height: 30vh;
+  background-color: #EEEEF2;
+}
+
+.lowButton{
+  background-color: #01AA15;
+  width: 449px;
+  height: 116px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+}
+.lowButton:hover{
+  background-color: #07f724;
+  width: 449px;
+  height: 116px;;
+  font-size: 25px;
+}
+
+
+
+.mediumButton{
+  background-color: #FC8101;
+  width: 449px;
+  height: 116px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+.mediumButton:hover{
+  filter: brightness(150%)
+}
+
+
+.highButton{
+  background-color: #E33530;
+  width: 449px;
+  height: 116px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+
+.highButton:hover{
+  background-color: #fa2b25;
+  width: 449px;
+  height: 116px;;
+  font-size: 25px;
+}
+
+.btnLogin{
+  background-color: black;
+  width: 28rem;
+  height: 62px;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+
+
+.btnLogin:hover{
+  background-color: white;
+  width: 28rem;
+  height: 62px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+
+.loginButtonDisabled{
+  background-color: white;
+  width: 28rem;
+  height: 62px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+}
+
+.linkCustom{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
+
+.authHead{
+  color: #000;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  font-style: bold;
+  font-weight: 1000;
+}
+
+
+/* For smartphones (portrait and landscape) */
+@media only screen and (max-width: 768px) {
+  .font{
+  font-size: 20px;
+  overflow-y: hidden;
+}
+.resizedImage{
+  width: 350px; 
+  height: auto; 
+
+}
+.productsH1Font{
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.xoverflow{
+  overflow-y: hidden;
+}
+
+.lowButton1{
+  background-color: #01AA15;
+  width: 380px;
+  height: 116px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+.lowButton1:hover{
+  background-color: #07f724;
+  width: 380px;
+  height: 116px;;
+  font-size: 25px;
+}
+
+.xoverflow{
+  overflow-y: hidden;
+}
+
+.mediumButton1{
+  background-color: #FC8101;
+  width: 380px;
+  height: 116px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+.mediumButton1:hover{
+  filter: brightness(150%)
+}
+
+
+.highButton1{
+  background-color: #E33530;
+  width: 380px;
+  height: 116px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px; 
+  text-decoration: none;
+}
+
+.highButton1:hover{
+  background-color: #fa2b25;
+  width: 380px;
+  height: 116px;;
+  font-size: 25px;
+}
+
+  .btnLogin {
+    width: 90%; /* Adjust width for smaller screens */
+    height: 10vw; /* Adjust height for smaller screens */
+    font-size: 4vw; /* Adjust font size for smaller screens */
+    /* Other styles for smaller screens... */
+  }
+
+
+
+}
+
+/* For tablets */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+img {
+  width: 350px; 
+  height: auto; 
+}
+.productsH1Font{
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  
+}
+.productImg{
+  maxWidth: '80%'; 
+  height: 'auto'
+}
+.xoverflow{
+  overflow-y: hidden;
+}
+}

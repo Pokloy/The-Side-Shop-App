@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.productsH1Font{
+	color: #1E1E1E;
+	font-family: 'Nunito', sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 24px; 
+}
+
+
+.font{
+	color: #FFF;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 800;
+	margin: 0;
+}
+.font2{
+	color: #FFF;
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 800;
+	margin: 0;
+}
+.bg1{
+  background-color: #1E1E1E;
+}
+
+hr{
+	background-color: white;
+}
+
+
+
+.modifyIcons{
+    overflow: hidden;
+    color: whitesmoke;
+    font-size: 50px;
+    content:"";
+}
+
+/*@media (max-width: 768px) {
+.hrColor1{
+	min-height: 0vh;
+}
+.hrColor{
+	min-height: 0vh;
+}
+hr{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0;
+  border: 0;
+}
+}*/
